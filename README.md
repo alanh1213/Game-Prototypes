@@ -1,2 +1,2 @@
 # Game-Prototypes
-Distintos prototipos/demos que voy haciendo para aprender
+Test del concepto de un posible juego de combate tactico de naves
